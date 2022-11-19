@@ -1,6 +1,6 @@
 import pytest
 
-from ..showbotlib import ShowTelegramBot
+from showbotlib.showbot import ShowTelegramBot
 
 
 def test_output():
